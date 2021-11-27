@@ -1,4 +1,4 @@
-# PersistenciaDeDados
+# Projeto de Persistencia de Dados
 Projeto desenvolvido para a disciplina de Programação Orientada a Objetos
 Profº Walter Travassos
 
@@ -9,6 +9,8 @@ Profº Walter Travassos
 - iText 5.5.13.2
 
 # Descrição do Projeto
-- Aplicação desenvolvida em Java
-- É possível adicionar, listar e deletar dados cadastrados no Banco de Dados Relacional 
-- É possível gerar um documento em PDF contendo todos os dados do Banco de Dados
+Sistema de Gerenciamento de Notas com Java Swing e Mysql
+
+# Funcionalidades
+- Adicionar, listar e deletar dados cadastrados no sistema 
+- Gerar um documento em PDF contendo todos os dados do Banco de Dados
